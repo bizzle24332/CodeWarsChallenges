@@ -1,2 +1,2 @@
 # CodeWarsChallenges
-do a codewar challenge a day via javascript language
+do a codewars challenge a day via javascript language
